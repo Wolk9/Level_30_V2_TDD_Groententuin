@@ -1,0 +1,15 @@
+{
+  "name": "Level_30_V2_TDD_Groententuin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
